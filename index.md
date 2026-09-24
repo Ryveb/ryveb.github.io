@@ -1,8 +1,13 @@
 ---
-layout: home
-title: My Security Blog
+layout: default
 ---
 
-Welcome to my blog.
+# My Security Blog
 
-Here I write about offensive security, red teaming, Active Directory and other technical topics.
+Offensive Security, Red Teaming and Research
+
+## Posts
+
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url | relative_url }}) - {{ post.date | date: "%d-%m-%Y" }}
+{% endfor %}
