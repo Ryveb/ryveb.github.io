@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Can Single Sign On Weaken the Security of Your Crown Jewel Systems?"
-date: 2026-06-16
+date: 2023-11-30
 ---
 
 # Introduction
