@@ -3,7 +3,7 @@
 layout: default
 title: "Which Offensive Security Certification Should You Choose?"
 date: 2026-09-10
-----------------
+---
 
 # Which Offensive Security Certification Should You Choose?
 
