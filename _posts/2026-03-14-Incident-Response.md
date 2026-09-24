@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "It's Time to Bring Incident Response to the Red Team Table"
+title: "It's Time to Bring Incident Response to the Training Table"
 date: 2026-04-14
 ---
 
