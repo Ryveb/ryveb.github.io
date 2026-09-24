@@ -3,9 +3,9 @@ layout: default
 title: "Security Blog"
 ---
 
-# Security Blog
+# Welcome to my security blog
 
-Offensive Security, Red Teaming and Research
+Offensive Security, Red Teaming, Research, Discussion pieces
 
 ## Posts
 
