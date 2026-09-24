@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Hiding in Plain Sight: Command and Control via Google Search"
-date: 2026-09-24
+date: 2024-09-24
 ---
 
 > **Responsible use:** This research was conducted to improve awareness of covert Command and Control channels. The concept should only be tested in environments where explicit authorization has been provided.
