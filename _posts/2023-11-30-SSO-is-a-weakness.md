@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Can Single Sign On Weaken the Security of Your Crown Jewel Systems?"
+title: "Can Single Sign On weaken the security of your Crown Jewel systems?"
 date: 2023-11-30
 ---
 
@@ -14,17 +14,17 @@ In reality, SSO is primarily an access mechanism. While it can strengthen securi
 
 The challenge is not that SSO is insecure. The challenge is that organizations frequently place too much trust in a single authentication event.
 
-# Identity: The New Security Perimeter
+# Identity: The new security perimeter
 
 Traditional security architectures focused on protecting networks and systems. Today, attacker activity increasingly revolves around identities.
 
-Modern cloud environments, SaaS applications and hybrid infrastructures rely heavily on centralized identity providers such as Active Directory and Microsoft Entra ID. These platforms often provide access to hundreds or even thousands of applications.
+Modern cloud environments, SaaS applications and hybrid infrastructures rely heavily on centralized identity providers such as Active Directory and Microsoft Entra ID. These platforms often provide access to multiple applications.
 
 This creates a concentration of trust. If an attacker successfully compromises a privileged identity or gains control over the central identity platform, the compromise can extend far beyond a single system.
 
 The identity platform effectively becomes a gateway to the organization's most valuable assets.
 
-# The Red Team Perspective
+# The Red Team perspective
 
 During Red Team exercises, the compromise of an identity provider frequently marks a turning point in the engagement.
 
@@ -34,7 +34,7 @@ This does not mean that SSO creates the vulnerability. The issue lies in the cen
 
 When every application trusts the same source of authentication, compromising that source can have far-reaching consequences.
 
-# Why Disabling SSO Is Usually the Wrong Answer
+# Why disabling SSO is usually the wrong answer
 
 A common reaction is to suggest removing SSO from critical applications.
 
@@ -52,7 +52,7 @@ Separate authentication systems introduce:
 
 Organizations often replace one risk with several new ones while simultaneously reducing visibility across their environment.
 
-# Protecting Crown Jewel Systems
+# Protecting Crown Jewel systems
 
 Instead of removing SSO, organizations should focus on strengthening the authentication journey to critical systems.
 
@@ -85,7 +85,7 @@ Administrative privileges should be tightly controlled and granted only when nec
 
 Organizations should separate standard user accounts from privileged identities and adopt just in time access wherever possible.
 
-## Continuous Validation
+## Continuous validation
 
 Authentication should not be treated as a one time event.
 
@@ -103,7 +103,7 @@ Within this model, SSO provides centralized identity management, while Zero Trus
 
 # Conclusion
 
-SSO delivers significant operational and security benefits, but it should never be viewed as a standalone security control.
+SSO delivers significant operational benefits, but it should never be viewed as a standalone security control.
 
 By centralizing authentication, SSO also centralizes trust. When that trust is compromised, attackers may gain access to a broad range of connected systems, including an organization's most critical assets.
 
