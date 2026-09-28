@@ -36,7 +36,7 @@ The OSCP is probably the most well-known certification on this list.
 
 For me, OSCP is mainly a penetration testing certification. It teaches you how to approach machines methodically, identify vulnerabilities, exploit them and escalate privileges.
 
-The biggest value of OSCP is not necessarily a specific technique. It is learning how to work independently when you do not immediately know the answer.
+The biggest value of OSCP is not necessarily a specific technique. It is learning how to work independently and create a sound methodology.
 
 You will spend a lot of time enumerating systems, testing ideas, getting stuck and trying another approach.
 
@@ -126,9 +126,7 @@ That is an important difference between penetration testing and red teaming.
 ### Good for
 
 * People interested in red teaming
-* Active Directory attacks
 * Command and Control
-* Lateral movement
 * Understanding attack paths
 * Learning how offensive operations are structured
 
@@ -155,26 +153,6 @@ This makes it much more relevant for people who already have some experience wit
 * Evasion and operational tradecraft
 * People who already completed CRTO or have equivalent knowledge
 
-I would see CRTO and CRTL as part of the same learning path:
-
-```text
-Penetration Testing
-        |
-        v
-       OSCP
-        |
-        v
-       OSEP
-        |
-        v
-       CRTO
-        |
-        v
-       CRTL
-```
-
-That does not mean you have to follow this exact order, but it is a logical progression.
-
 ---
 
 ## CARTP
@@ -186,14 +164,6 @@ This makes it quite different from certifications such as OSCP or CRTO.
 Instead of attacking a traditional on-premises Active Directory environment, you start looking at identities, permissions and attack paths in Microsoft cloud environments.
 
 That becomes increasingly important because many organisations now have hybrid environments consisting of both:
-
-```text
-Active Directory
-        +
-     Entra ID
-        +
-      Azure
-```
 
 Understanding only traditional Active Directory is therefore becoming less sufficient for offensive security professionals.
 
@@ -241,111 +211,7 @@ My reason for taking it is to continue developing skills beyond traditional pene
 
 Once I have completed it, I will update this section with my full experience.
 
----
 
-# So Which Certification Should You Choose?
-
-I would base the decision primarily on what you want to become better at.
-
-If you are starting with penetration testing:
-
-```text
-OSCP
-```
-
-If you already have penetration testing experience and want to go deeper:
-
-```text
-OSCP
-  |
-  v
-OSEP
-```
-
-If you want to move towards red teaming:
-
-```text
-OSCP
-  |
-  v
-CRTO
-  |
-  v
-CRTL
-```
-
-Depending on your existing experience, OSEP can fit very well between OSCP and CRTO.
-
-If you want to specialise in Azure and Entra ID:
-
-```text
-CARTP
-```
-
-If you want to specialise in wireless security:
-
-```text
-OSWP
-```
-
----
-
-# The Learning Path I Would Recommend
-
-For someone who wants to develop from penetration tester into a red team operator, I think a path like this makes sense:
-
-```text
-OSCP
-  |
-  v
-OSEP
-  |
-  v
-CRTO
-  |
-  v
-CRTL
-```
-
-Then add certifications based on the environments you encounter:
-
-```text
-             +--> CARTP   -> Azure / Entra ID
-             |
-Core path ---+
-             |
-             +--> OSWP    -> Wireless
-```
-
-The important part is that I would not collect certifications simply for the sake of collecting certifications.
-
-Each certification should solve a knowledge gap.
-
-For example:
-
-```text
-"I struggle with basic enumeration"
-        -> OSCP
-
-"I want to understand defence evasion"
-        -> OSEP
-
-"I want to learn how to operate through a C2"
-        -> CRTO
-
-"I already perform red team operations and want more advanced tradecraft"
-        -> CRTL
-
-"I understand AD but not Entra ID"
-        -> CARTP
-
-"I know very little about wireless attacks"
-        -> OSWP
-```
-
-That is a much better way of choosing your next certification than simply asking which certificate looks best on a CV.
-
----
 
 # Certifications vs Experience
 
