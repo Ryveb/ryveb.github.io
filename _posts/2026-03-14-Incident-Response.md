@@ -68,7 +68,7 @@ Red Teams simulate those threats.
 
 Blue Teams learn how to detect and respond.
 
-But Incident Response and Recovery teams are often involved only after the exercise has ended.
+But Incident Response and Recovery teams are often not involved during the training.
 
 I believe this needs to change.
 
@@ -114,7 +114,7 @@ However, cyber resilience is more than prevention, detection and response.
 
 It also includes recovery.
 
-As organizations continue to mature their exercising programs, it may be time to give Incident Response and Recovery specialists a permanent seat at the table. Not after the exercise, but during the planning, execution and evaluation phases.
+As organizations continue to mature their exercising programs, it may be time to give Incident Response and Recovery specialists a permanent seat at the (training) table. Not after the exercise, but during the planning, execution and evaluation phases.
 
 Because when a serious incident occurs, the most important question is often not how the attacker got in.
 
