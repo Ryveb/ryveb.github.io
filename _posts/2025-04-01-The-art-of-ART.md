@@ -10,7 +10,7 @@ date: 2025-04-01
 
 Over the years, organizations have increasingly adopted Red Teaming as a method to assess their ability to detect and respond to realistic cyber attacks. While traditional Red Teaming provides valuable insights, many organizations struggle with the complexity and maturity required by sector specific frameworks such as TIBER-EU.
 
-To address this challenge, De Nederlandsche Bank (DNB) developed the Advanced Red Teaming (ART) framework. The ART framework provides organizations with a structured and accessible approach to intelligence led threat simulations while maintaining many of the principles that make frameworks such as TIBER-EU effective. 【1-afc691】
+To address this challenge, De Nederlandsche Bank (DNB) developed the Advanced Red Teaming (ART) framework. The ART framework provides organizations with a structured and accessible approach to intelligence led threat simulations while maintaining many of the principles that make frameworks such as TIBER-EU effective.
 
 This article introduces the ART framework and explains how it helps organizations improve cyber resilience through realistic attack simulations.
 
@@ -20,7 +20,7 @@ Security assessments come in many forms, each serving a different purpose.
 
 Penetration tests focus on identifying and exploiting vulnerabilities within a defined scope. Red Team exercises evaluate whether an organization's security capabilities can detect and respond to an attack scenario. Advanced Red Teaming extends this concept by leveraging threat intelligence, realistic adversary behaviour and resilience focused objectives.
 
-The objective is no longer simply to determine whether systems can be compromised. Instead, the goal is to understand how effectively an organization can withstand, detect and respond to attacks that resemble those of real world threat actors. 【1-afc691】
+The objective is no longer simply to determine whether systems can be compromised. Instead, the goal is to understand how effectively an organization can withstand, detect and respond to attacks that resemble those of real world threat actors.
 
 # The DNB ART framework
 
@@ -34,7 +34,7 @@ Key characteristics of the framework include:
 * Reduced complexity compared to highly regulated frameworks
 * A structured approach for measuring and evaluating outcomes
 
-Rather than prescribing a single way of working, ART allows organizations to tailor the exercise to their objectives, maturity level and risk profile. 【1-afc691】
+Rather than prescribing a single way of working, ART allows organizations to tailor the exercise to their objectives, maturity level and risk profile.
 
 # Threat intelligence as the foundation
 
@@ -42,7 +42,7 @@ A key principle within ART is that every exercise starts with understanding the 
 
 The process begins by identifying the target organization, its critical functions and the systems that support those functions. Threat intelligence is then used to determine which threat actors are most relevant and which attack scenarios should be simulated.
 
-This ensures that the exercise focuses on realistic threats rather than generic attack techniques. The resulting attack plan reflects both the organization's environment and the capabilities of relevant adversaries. 【1-afc691】
+This ensures that the exercise focuses on realistic threats rather than generic attack techniques. The resulting attack plan reflects both the organization's environment and the capabilities of relevant adversaries.
 
 # Collaboration across multiple teams
 
@@ -57,7 +57,7 @@ Successful exercises rely on collaboration between several stakeholders:
 * Gold Team responsible for facilitating strategic discussions and exercises
 * Test Cyber Team responsible for quality assurance and consistency
 
-Each party contributes to ensuring that the exercise remains realistic, controlled and valuable for the organization. 【1-afc691】
+Each party contributes to ensuring that the exercise remains realistic, controlled and valuable for the organization.
 
 # From intelligence to attack simulation
 
@@ -71,7 +71,7 @@ The attack plan describes:
 * Safeguards
 * Success criteria
 
-The resulting exercise enables organizations to evaluate technical controls, detection capabilities, response procedures and decision making processes under realistic conditions. 【1-afc691】
+The resulting exercise enables organizations to evaluate technical controls, detection capabilities, response procedures and decision making processes under realistic conditions.
 
 # Purple and Gold Teaming
 
@@ -81,7 +81,7 @@ Purple Teaming allows offensive and defensive teams to work together after the e
 
 Gold Teaming focuses on the human and organizational elements through activities such as walkthroughs, tabletop exercises and management simulations.
 
-Together, these activities help transform technical findings into lasting improvements to organizational resilience. 【1-afc691】
+Together, these activities help transform technical findings into lasting improvements to organizational resilience.
 
 # Lessons learned
 
@@ -92,7 +92,7 @@ After participating in numerous Advanced Red Teaming exercises, several recurrin
 * Cloud attack paths have become increasingly important.
 * Identity remains one of the primary attack surfaces.
 * The effectiveness of a Security Operations Center depends heavily on the people operating it.
-* Interactive Purple Teaming sessions often generate the most value for participating organizations. 【1-afc691】
+* Interactive Purple Teaming sessions often generate the most value for participating organizations.
 
 # Conclusion
 
