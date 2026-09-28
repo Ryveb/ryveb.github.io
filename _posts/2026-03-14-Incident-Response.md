@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "It's Time to Bring Incident Response to the Training Table"
+title: "It's time to bring Incident Response to the training table"
 date: 2026-04-14
 ---
 
-# It's Time to Bring Incident Response to the Red Team Table
+# It's Time to Bring Incident Response to the training table
 
 Over the past years, organizations have invested heavily in exercising their cyber security capabilities through frameworks such as TIBER-EU, TLPT and ART.
 
