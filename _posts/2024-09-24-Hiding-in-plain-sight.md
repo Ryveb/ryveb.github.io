@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Hiding in Plain Sight: Command and Control via Google Search"
+title: "Hiding in plain sight: Command and Control via Google Search"
 date: 2024-09-24
 ---
 
@@ -26,7 +26,6 @@ That synchronization creates a basic communication mechanism:
 4. Its output is submitted as a new search.
 5. The operator retrieves the result through the synchronized search history.
 
-In the proof of concept, the operator submitted the command `hostname`. The controlled endpoint retrieved and executed it, after which the hostname was returned through another search entry.
 
 # Under the hood
 
